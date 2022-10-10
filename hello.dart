@@ -7,4 +7,6 @@ void main() {
   print("I’m looking for help with You're open to new job opportunities.");
   print("All of my projects are available at https://github.com/DanielArturoAlejoAlvarez.");
   print("I regularly write articles on https://pe.linkedin.com/in/danielarturoalejoalvarez");
+  print("Ask me about Django, Spring, Laravel, Ruby on Rails, React, Angular, etc.");
+  print("How to reach me yourmediasoft@gmail.com");
 }
