@@ -1,3 +1,4 @@
 void main() {
-  print("Hello World :D");
+  print("Hi wave, I'm Daniel Arturo Alejo Alvarez.");
+  print("A passionate software developer from Perú.");
 }
