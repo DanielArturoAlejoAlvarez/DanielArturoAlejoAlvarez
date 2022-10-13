@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://pe.linkedin.com/in/danielarturoalejoalvarez](https://pe.linkedin.com/in/danielarturoalejoalvarez)
 
-- 💬 Ask me about **Django, Spring, Laravel, Ruby on Rails, React, Angular, etc.**
+- 💬 Ask me about **Django, Spring, Laravel, Ruby on Rails, Express, React, Angular, Bootstrap, Tailwind, etc.**
 
 - 📫 How to reach me **yourmediasoft@gmail.com**
 
