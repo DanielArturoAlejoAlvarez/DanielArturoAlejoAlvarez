@@ -30,9 +30,7 @@
 <a href="https://linkedin.com/in/danielarturoalejoalvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielarturoalejoalvarez" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/2522dan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="2522dan" height="30" width="40" /></a>
   
-  <a href="https://www.tiktok.com/@danielarturoalejoalvarez" target="blank">
- <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" data-e2e="browse-logo" class="tiktok-15jg05z-StyledLogo e11s2kul7"><use xlink:href="#logo-icon-32382b7a"></use></svg>
-  </a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
