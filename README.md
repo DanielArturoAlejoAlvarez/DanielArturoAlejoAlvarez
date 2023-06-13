@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **yourmediasoft@gmail.com**
 
-- 😃 Follow me on TiKTok and be encouraged to create content. [@danielarturoalejoalvarez](https://www.tiktok.com/@danielarturoalejoalvarez)
+- 😃 Follow me on **TiKTok** and be encouraged to create content. [@danielarturoalejoalvarez](https://www.tiktok.com/@danielarturoalejoalvarez)
 
 - ⚡ Fun fact **I am passionate about technology and nature.**
 
